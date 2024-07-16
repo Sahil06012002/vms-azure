@@ -1,0 +1,61 @@
+11-06-2024 03:30:40 PM: ErrorCode: 5009 ErrorMessage: The specified string is not in the form required for an e-mail address.; Source:System.Net.Mail StackTrace:   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, Boolean expectMultipleAddresses, Int32& index, ParseAddressInfo& parseAddressInfo, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, ParseAddressInfo& parsedAddress, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at VendorManagementSystem.Infrastructure.Services.EmailService.SendLoginEmail(EmailDetailsDto emailDetailsDto) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Infrastructure\Services\EmailService.cs:line 20
+   at VendorManagementSystem.Application.Services.UserService.CreateUser(CreateUserDto userDto, String jwtToken) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Application\Services\UserService.cs:line 105
+
+
+11-06-2024 03:31:24 PM: ErrorCode: 5009 ErrorMessage: The specified string is not in the form required for an e-mail address.; Source:System.Net.Mail StackTrace:   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, Boolean expectMultipleAddresses, Int32& index, ParseAddressInfo& parseAddressInfo, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, ParseAddressInfo& parsedAddress, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at VendorManagementSystem.Infrastructure.Services.EmailService.SendLoginEmail(EmailDetailsDto emailDetailsDto) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Infrastructure\Services\EmailService.cs:line 20
+   at VendorManagementSystem.Application.Services.UserService.CreateUser(CreateUserDto userDto, String jwtToken) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Application\Services\UserService.cs:line 105
+
+
+11-06-2024 03:31:38 PM: ErrorCode: 5009 ErrorMessage: The specified string is not in the form required for an e-mail address.; Source:System.Net.Mail StackTrace:   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, Boolean expectMultipleAddresses, Int32& index, ParseAddressInfo& parseAddressInfo, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, ParseAddressInfo& parsedAddress, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at VendorManagementSystem.Infrastructure.Services.EmailService.SendLoginEmail(EmailDetailsDto emailDetailsDto) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Infrastructure\Services\EmailService.cs:line 20
+   at VendorManagementSystem.Application.Services.UserService.CreateUser(CreateUserDto userDto, String jwtToken) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Application\Services\UserService.cs:line 105
+
+
+11-06-2024 03:44:14 PM: ErrorCode: 5009 ErrorMessage: The specified string is not in the form required for an e-mail address.; Source:System.Net.Mail StackTrace:   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, Boolean expectMultipleAddresses, Int32& index, ParseAddressInfo& parseAddressInfo, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, ParseAddressInfo& parsedAddress, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at VendorManagementSystem.Infrastructure.Services.EmailService.SendLoginEmail(EmailDetailsDto emailDetailsDto) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Infrastructure\Services\EmailService.cs:line 20
+   at VendorManagementSystem.Application.Services.UserService.CreateUser(CreateUserDto userDto, String jwtToken) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Application\Services\UserService.cs:line 105
+
+
+11-06-2024 03:48:07 PM: ErrorCode: 5009 ErrorMessage: The specified string is not in the form required for an e-mail address.; Source:System.Net.Mail StackTrace:   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, Boolean expectMultipleAddresses, Int32& index, ParseAddressInfo& parseAddressInfo, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, ParseAddressInfo& parsedAddress, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at VendorManagementSystem.Infrastructure.Services.EmailService.SendLoginEmail(EmailDetailsDto emailDetailsDto) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Infrastructure\Services\EmailService.cs:line 20
+   at VendorManagementSystem.Application.Services.UserService.CreateUser(CreateUserDto userDto, String jwtToken) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Application\Services\UserService.cs:line 107
+
+
+11-06-2024 03:50:28 PM: ErrorCode: 5009 ErrorMessage: The specified string is not in the form required for an e-mail address.; Source:System.Net.Mail StackTrace:   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, Boolean expectMultipleAddresses, Int32& index, ParseAddressInfo& parseAddressInfo, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, ParseAddressInfo& parsedAddress, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at VendorManagementSystem.Infrastructure.Services.EmailService.SendLoginEmail(EmailDetailsDto emailDetailsDto) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Infrastructure\Services\EmailService.cs:line 21
+   at VendorManagementSystem.Application.Services.UserService.CreateUser(CreateUserDto userDto, String jwtToken) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Application\Services\UserService.cs:line 107
+
+
+11-06-2024 03:52:11 PM: ErrorCode: 5009 ErrorMessage: The specified string is not in the form required for an e-mail address.; Source:System.Net.Mail StackTrace:   at System.Net.Mail.MailAddressParser.TryReadCfwsAndThrowIfIncomplete(String data, Int32 index, Int32& outIndex, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseDomain(String data, Int32& index, String& domain, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, Boolean expectMultipleAddresses, Int32& index, ParseAddressInfo& parseAddressInfo, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddressParser.TryParseAddress(String data, ParseAddressInfo& parsedAddress, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at VendorManagementSystem.Infrastructure.Services.EmailService.SendLoginEmail(EmailDetailsDto emailDetailsDto) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Infrastructure\Services\EmailService.cs:line 29
+   at VendorManagementSystem.Application.Services.UserService.CreateUser(CreateUserDto userDto, String jwtToken) in C:\Users\mscheruvu\Desktop\delete\vms-be\src\VendorManagementSystem.Application\Services\UserService.cs:line 107
+
+
+11-06-2024 03:56:02 PM: in the funciton CreateUser, Provided a duplicate email VendorManagementSystem.Models.Models.User
+
+
